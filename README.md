@@ -1,4 +1,7 @@
-Analysis of Chemical Components (Cosmetics Project)
+🧴Analysis of Chemical Components (Cosmetics Project)
+
+
+
 📌 Project Overview
 
 This project explores the chemical composition of cosmetic products and visualizes their similarity using machine learning techniques. By applying one-hot encoding and t-SNE (t-distributed stochastic neighbor embedding), I created a low-dimensional representation of cosmetic items, making it easier to compare products based on their ingredients.
